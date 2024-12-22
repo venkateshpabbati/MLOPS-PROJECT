@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/PROJECT%20-%206/mlruns/466038994789396201/2213d8fbb91d48cfb378a70fe21286bf/artifacts
+end_time: 1734320889946
+entry_point_name: ''
+experiment_id: '466038994789396201'
+lifecycle_stage: active
+run_id: 2213d8fbb91d48cfb378a70fe21286bf
+run_name: dazzling-smelt-752
+run_uuid: 2213d8fbb91d48cfb378a70fe21286bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734320775415
+status: 3
+tags: []
+user_id: gusai

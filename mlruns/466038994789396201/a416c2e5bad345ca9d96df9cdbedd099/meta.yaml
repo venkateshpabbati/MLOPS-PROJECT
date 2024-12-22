@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/PROJECT%20-%206/mlruns/466038994789396201/a416c2e5bad345ca9d96df9cdbedd099/artifacts
+end_time: 1734002122733
+entry_point_name: ''
+experiment_id: '466038994789396201'
+lifecycle_stage: active
+run_id: a416c2e5bad345ca9d96df9cdbedd099
+run_name: bustling-sloth-574
+run_uuid: a416c2e5bad345ca9d96df9cdbedd099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002005640
+status: 3
+tags: []
+user_id: gusai

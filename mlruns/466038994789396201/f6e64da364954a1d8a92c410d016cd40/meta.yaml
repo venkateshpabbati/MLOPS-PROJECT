@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/PROJECT%20-%206/mlruns/466038994789396201/f6e64da364954a1d8a92c410d016cd40/artifacts
+end_time: 1734000918872
+entry_point_name: ''
+experiment_id: '466038994789396201'
+lifecycle_stage: active
+run_id: f6e64da364954a1d8a92c410d016cd40
+run_name: upbeat-panda-439
+run_uuid: f6e64da364954a1d8a92c410d016cd40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734000800620
+status: 3
+tags: []
+user_id: gusai
